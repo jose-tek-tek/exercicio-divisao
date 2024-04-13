@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "exercicio-divisao", "exercicio-divisao.csproj", "{67355CB0-DFA4-416B-8D7F-410843FFE120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67355CB0-DFA4-416B-8D7F-410843FFE120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67355CB0-DFA4-416B-8D7F-410843FFE120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67355CB0-DFA4-416B-8D7F-410843FFE120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67355CB0-DFA4-416B-8D7F-410843FFE120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B78326-FE18-4C77-AD1C-250C49CBEFC6}
+	EndGlobalSection
+EndGlobal
